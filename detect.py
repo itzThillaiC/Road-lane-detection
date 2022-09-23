@@ -1,5 +1,4 @@
-import numpy as np
-import cv2
+
 
 # width and height
 w = 1280
