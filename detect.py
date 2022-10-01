@@ -1,9 +1,3 @@
-import numpy as np
-import cv2
-
-# width and height
-w = 1280
-h = 720
 
 
 top_right = (725, 455)
